@@ -1,3 +1,10 @@
 name: UberPlugin
 main: uberslayer.UberPlugin
-version: 0.1.0
+version: 0.0.4
+
+commands:
+  ubersword:
+    description: This command gives you an uber sword
+    usage: /ubersword
+    permission: uberplugin.ubersword
+    permission-message: You don't have permissions to do that command!
