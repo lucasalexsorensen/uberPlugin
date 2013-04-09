@@ -1,10 +1,3 @@
 name: UberPlugin
 main: uberslayer.UberPlugin
-version: 0.0.2
-
-commands:
-  uber:
-    description: This is a demo command from the UberPlugin
-    usage: /uber
-    permission: uberplugin.uber
-    permission-message: You don't have permission to do that!
+version: 0.1.0
