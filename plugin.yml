@@ -6,5 +6,5 @@ commands:
   uber:
     description: This is a demo command from the UberPlugin
     usage: /uber
-    permission: ubermod.uber
+    permission: uberplugin.uber
     permission-message: You don't have permission to do that!
